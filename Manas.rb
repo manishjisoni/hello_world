@@ -3,7 +3,7 @@ print <<EOF
    here document ie. multiple line string.
 EOF
 
-print <<"EOF";                # same as above
+print <<"EOF";                # same as above##Jai shree mahakal
    This is the second way of creating
    here document ie. multiple line string.
 EOF
