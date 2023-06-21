@@ -4,7 +4,7 @@ print <<EOF
 EOF
 
 print <<"EOF";                # same as above##Jai shree mahakal
-   This is the second way of creating
+   In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is availableThis is the second way of creating
    here document ie. multiple line string.
 EOF
 print <<`EOC`                 # execute commands
